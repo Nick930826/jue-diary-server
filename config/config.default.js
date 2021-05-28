@@ -23,7 +23,8 @@ module.exports = appInfo => {
   };
 
   config.multipart = {
-    mode: 'file'
+    mode: 'file',
+    fileSize: '50kb'
   };
 
   config.security = {
