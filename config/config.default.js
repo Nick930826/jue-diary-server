@@ -59,7 +59,7 @@ module.exports = appInfo => {
       // 密码
       password: 'cxy930826',
       // 数据库名
-      database: 'daily_cost',
+      database: 'jue-cost',
     },
     // 是否加载到 app 上，默认开启
     app: true,
