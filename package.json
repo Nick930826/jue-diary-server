@@ -28,8 +28,8 @@
     "node": ">=10.0.0"
   },
   "scripts": {
-    "start": "egg-scripts start --daemon --title=jue-diary-server",
-    "stop": "egg-scripts stop --title=jue-diary-server",
+    "start": "egg-scripts start --daemon --title=egg-server-jue-diary-server",
+    "stop": "egg-scripts stop --title=egg-server-jue-diary-server",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
     "test": "npm run lint -- --fix && npm run test-local",
